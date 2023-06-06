@@ -10,7 +10,7 @@ import TopBar from "./components/TopBar.vue";
   <main>
     <TopBar />
     <div class="page">
-      <p>Welcome!</p>
+      <h1>Welcome to Brain Boosters!<br/>This site is currently under construction, please check back at a later date.</h1>
     </div>
   </main>
 </template>

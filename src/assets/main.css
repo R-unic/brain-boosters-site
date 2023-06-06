@@ -16,7 +16,7 @@
 
 .topbar {
   display: flex;
-  height: 75px;
+  height: 85px;
   width: 100%;
   background-color: var(--color-background-mute);
 }
