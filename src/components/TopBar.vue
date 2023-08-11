@@ -8,7 +8,7 @@ import { RouterLink } from "vue-router";
       <img id="home-icon" src="https://brainboosters.online/meta.jpg" />
     </router-link>
     <router-link to="/services">Services</router-link>
-    <router-link to="/about">About Me</router-link>
+    <router-link to="/about-me">About Me</router-link>
     <router-link to="/contact">Contact</router-link>
   </navbar>
 </template>
