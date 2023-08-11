@@ -12,9 +12,9 @@
       <br/>
       &emsp;I am a certified teacher in both Oregon and Michigan. I was the autism spectrum disorder (ASD)
       inclusion teacher for 1st grade for 5 years. I have written and implemented new Science and Social
-      Studies curricula for 2nd grade and partnered with Oregon State University's extension program as well
+      Studies curricula for 2nd grade and partnered with <a href="https://oregonstate.edu/">Oregon State University</a>'s extension program as well
       as the Oregon Watershed Council to provide gardening, creek and ocean/tide pool exploration programs
-      to elementary school students in Gold Beach, Oregon.
+      to elementary school students in <a href="https://www.google.com/maps/place/Gold+Beach,+OR+97444/@42.3970221,-124.414168,13z/data=!3m1!4b1!4m6!3m5!1s0x54dace49bf9ae73d:0x121195079f68806d!8m2!3d42.4073334!4d-124.4217741!16zL20vMHpjZ2g?entry=ttu">Gold Beach, Oregon</a>.
       <br/><br/>
       <h3>I believe that learning is a cooperative venture built on the backbone of trust and enjoyment.</h3>
       <h3>I make it
