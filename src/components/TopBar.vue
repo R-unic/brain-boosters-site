@@ -1,11 +1,14 @@
+<script setup lang="ts">
+import { RouterLink } from "vue-router";
+</script>
+
 <template>
   <navbar class="topbar">
-    <a id="home" href="/">
+    <router-link id="home" to="/">
       <img id="home-icon" src="https://brainboosters.online/meta.jpg" />
-    </a>
-    <a href="/classes.html">Classes</a>
-    <a href="/tutoring.html">Tutoring</a>
-    <a href="/enroll.html">Enroll</a>
-    <a href="/contact.html">Contact</a>
+    </router-link>
+    <router-link to="/services">Services</router-link>
+    <router-link to="/about">About Me</router-link>
+    <router-link to="/contact">Contact</router-link>
   </navbar>
 </template>

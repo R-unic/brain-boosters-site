@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import { RouterView } from "vue-router";
 import TopBar from "./components/TopBar.vue";
 </script>
 
@@ -10,7 +11,7 @@ import TopBar from "./components/TopBar.vue";
   <main>
     <TopBar />
     <div class="page">
-      <h1>Welcome to Brain Boosters!<br/>This site is currently under construction, please check back at a later date.</h1>
+      <router-view/>
     </div>
   </main>
 </template>
