@@ -10,6 +10,6 @@
       <img width="660" height="432" src="https://images.pexels.com/photos/3861966/pexels-photo-3861966.jpeg?cs=srgb&dl=pexels-thisisengineering-3861966.jpg&fm=jpg">
     </div>
     <br/><br/><br/>
-    <img src="https://brainboosters.online/logo.jpg">
+    <img width="600" src="https://brainboosters.online/logo.jpg">
   </main>
 </template>
