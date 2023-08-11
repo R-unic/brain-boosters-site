@@ -7,6 +7,38 @@
   font-weight: normal;
 }
 
+/* Basic styling for the table */
+table {
+  width: 50%;
+  border-collapse: separate;
+  border: 3px solid var(--color-border);
+  font-family: Arial, sans-serif;
+}
+
+/* Style for table headers */
+th {
+  background-color: var(--color-border-hover);
+  border: 1px solid var(--color-background-soft);
+  padding: 8px;
+  text-align: left;
+}
+
+/* Alternate row colors for table rows */
+tr:nth-child(even) {
+  background-color: var(--color-background-soft);
+}
+
+/* Style for table data cells */
+td {
+  border: 1px solid var(--);
+  padding: 8px;
+}
+
+/* Hover effect on table rows */
+tr:hover {
+  background-color: var(--color-background-mute);
+}
+
 .quotes {
   display: flex;
   flex-wrap: wrap;
