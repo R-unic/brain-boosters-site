@@ -1,5 +1,5 @@
 <template>
   <main>
-    <h1>Welcome to Brain Boosters!</h1>
+    <h1>Still working on it, sorry!</h1>
   </main>
 </template>
