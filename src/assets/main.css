@@ -7,6 +7,14 @@
   font-weight: normal;
 }
 
+.desc {
+  width: 50%;
+}
+
+.push-right {
+  margin-left: 5%;
+}
+
 /* Basic styling for the table */
 table {
   width: 50%;
